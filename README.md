@@ -1,2 +1,2 @@
-# Crm_tool myapp
+# myapp
 Django
